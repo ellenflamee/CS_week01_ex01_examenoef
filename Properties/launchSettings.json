@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CS_week01_ex01_examenoef": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7287",
+      "launchBrowser": false
+    }
+  }
+}
